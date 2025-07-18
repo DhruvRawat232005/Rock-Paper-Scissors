@@ -5,11 +5,6 @@ Play against the computer, track scores, and enjoy smooth UI animations — all 
 
 ---
 
-## Live Demo
-
-> _(Optional: Add a live GitHub Pages or Render link here if deployed)_
-
----
 
 ## Features
 
